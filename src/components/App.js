@@ -6,7 +6,6 @@ import SearchAppointments from './SearchAppointments';
 import ListAppointments from './ListAppointments';
 
 import { findIndex, without } from 'lodash';
-import { FaThemeisle } from 'react-icons/fa';
 
 class App extends Component {
 
