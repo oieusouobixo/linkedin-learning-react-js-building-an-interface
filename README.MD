@@ -10,8 +10,6 @@ these need to be installed
 - [git](http://git-scm.com/)
 - [Create React App](https://facebook.github.io/create-react-app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
